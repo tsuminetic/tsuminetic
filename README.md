@@ -56,9 +56,3 @@
 <a href = "https://www.youtube.com/channel/UCmuJWJMN9-D-nUwIAedyIxA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tsuminetic">
-</a>
-<a href="https://github.com/tsuminetic?tab=followers"><img src="https://img.shields.io/github/followers/tsuminetic?label=Followers&style=social" alt="GitHub Badge"></a>
