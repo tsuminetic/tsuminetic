@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/HEPwQps.gif" height="175px"/></a>
 
-<h1 align="center">helluu, tsuminetic desu <img src="https://s.w.org/images/core/emoji/13.0.1/svg/2728.svg
-" width="30px"></h1>
+<h1 align="center">helluu, tsuminetic desu ✨</h1>
 <h3 align="center">bless that ass 😌</h3>
 
 
