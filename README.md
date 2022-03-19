@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working on **A 3d hird person game with Unity**
+- 🔭 Currently working on **A 3d third person game with Unity**
 
 - 🌱 Currently learning **Unity with C#**
   
