@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/HEPwQps.gif" height="175px"/></a>
 
-<h1 align="center">helluu, tsuminetic desu ✨</h1>
-<h3 align="center">bless that ass 😌</h3>
+<h1 align="center">helluu, tsumi here</h1>
+<h3 align="center"></h3>
 
 
 ## 🙋‍♂️ About Me
